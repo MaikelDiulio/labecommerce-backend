@@ -1,0 +1,25 @@
+{
+  "name": "labecommerce-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc && node ./build/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaikelDiulio/labecommerce-backend.git"
+  },
+  "keywords": [],
+  "author": "Maikel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaikelDiulio/labecommerce-backend/issues"
+  },
+  "homepage": "https://github.com/MaikelDiulio/labecommerce-backend#readme",
+  "devDependencies": {
+    "@types/node": "^18.11.18",
+    "typescript": "^4.9.4"
+  }
+}
